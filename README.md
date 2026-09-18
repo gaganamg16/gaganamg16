@@ -12,12 +12,13 @@
 - Git & GitHub
 
 🚀 Projects
+## 🚀 Projects
 
-- **SkillGap Pro** – Career Readiness and Skill Gap Analysis Platform
-- **CodeAlpha Ecommerce** – Django-based E-commerce Application
-- **Social Media Platform** – Django Web Application
-- **To-Do List** – Python Application
-- **Calculator** – Python Application
+- [SkillGap Pro](https://github.com/gaganamg16/SkillGapPro) – Career Readiness and Skill Gap Analysis Platform
+- [CodeAlpha Ecommerce](https://github.com/gaganamg16/CodeAlpha_Ecommerce) – Django-based E-commerce Application
+- Social Media Platform – Django Web Application
+- To-Do List – Python Application
+- Calculator – Python Application
 
 💡 What I'm Doing
 
