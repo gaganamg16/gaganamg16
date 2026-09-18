@@ -1,16 +1,36 @@
-## Hi there 👋
+# Hi, I'm Gagana 👋
 
-<!--
-**gaganamg16/gaganamg16** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 3rd Year Computer Science Engineering Student
 
-Here are some ideas to get you started:
+💻 Interested in Software Development and Full Stack Development
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🌱 Currently Learning
+- Data Structures & Algorithms
+- Python
+- Java
+- Full Stack Development
+- Git & GitHub
+
+🚀 Projects
+
+- **SkillGap Pro** – Career Readiness and Skill Gap Analysis Platform
+- **CodeAlpha Ecommerce** – Django-based E-commerce Application
+- **Social Media Platform** – Django Web Application
+- **To-Do List** – Python Application
+- **Calculator** – Python Application
+
+💡 What I'm Doing
+
+- Solving problems on LeetCode
+- Building practical projects
+- Improving my programming and problem-solving skills
+- Learning new technologies
+
+🛠️ Technologies
+
+Python | Java | C | C++ | Django | HTML | CSS | JavaScript | Git | GitHub
+
+📫 Connect With Me
+
+- GitHub: [@gaganamg16](https://github.com/gaganamg16)
+- LinkedIn: https://www.linkedin.com/in/gagana-m-g-368348341?utm_source=share_via&utm_content=profile&utm_medium=member_android
