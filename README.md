@@ -12,10 +12,10 @@
 - Git & GitHub
 
 🚀 Projects
-## 🚀 Projects
 
 - [SkillGap Pro](https://github.com/gaganamg16/SkillGapPro) – Career Readiness and Skill Gap Analysis Platform
 - [CodeAlpha Ecommerce](https://github.com/gaganamg16/CodeAlpha_Ecommerce) – Django-based E-commerce Application
+- [Cognifyz Tasks](https://github.com/gaganamg16/Cognifyz-Tasks) – Web Development Internship Tasks
 - Social Media Platform – Django Web Application
 - To-Do List – Python Application
 - Calculator – Python Application
